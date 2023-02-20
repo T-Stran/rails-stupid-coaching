@@ -13,3 +13,41 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+  margin: 20px;
+ }
+
+ p {
+  margin: 20px;
+  border-left: solid lightgray;
+  border-left-width: 8px;
+  font-size: 20px;
+  line-break: 30px;
+  padding-left: 10px;
+ }
+
+ #coach {
+  background-color:beige;
+ }
+
+ h3 {
+  font-size: 15px;
+  margin-left: 20px;
+ }
+
+ form {
+  margin-left: 20px;
+ }
+
+ .btn-primary {
+  border-radius: 5px;
+ }
+
+ div {
+  margin: 20px;
+ }
+
+ #ask-box {
+  width: 500px;
+ }
